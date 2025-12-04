@@ -26,7 +26,10 @@ Karakter, bu özelliği hareket etmiyorken kullanabilir, normal saldırıya kıy
 Çeşitli varlıkler (Asset) kullanılarak karakterin oynayabileceği bir harita oluşturulmuştur.
 ## Ses
 **Arka Plan Sesi:** Oyun boyunca çalar.
+
 **Normal Saldırı Sesi:** Kılıç savrulduğunda ses çıkar.
+
 **Kritik Saldırı Sesi:** Kritik saldırı kullanıldığında daha tok bir ses çıkar.
+
 ## Yapay Zeka
 Oyunun şu anki sürümünde herhangi bir yapay zeka bulunmamaktadır. İleride rakipler bir yapay zeka ajanı tarafından kontrol edilecektir.
