@@ -2,6 +2,7 @@
 Fantastik canavarlarla savaşılan, Unity ile geliştirilmiş fizik tabanlı bir oyun.
 ## Oyun
 Oyuna tarayıcı üzerinden oynamak için tıklayın:
+
 https://letranco.itch.io/servant-of-the-sword?secret=x2bMuwltUKYmbKsqo7oBaBkAr0
 ## Proje Hakkında
 Bu proje, Unity Oyun Motoru ile geliştirilmiştir. Ana karakter olan şövalye, kılıcıyla farklı saldırılar kullanarak ve fizik tabanlı interaksiyonlarda bulunarak hayatta kalıp bölümü geçmeye çalışır.
