@@ -1,7 +1,7 @@
 # Servant-of-the-Sword
 Fantastik canavarlarla savaşılan, Unity ile geliştirilmiş fizik tabanlı bir oyun.
 ## Oyun
-Oyuna tarayıcı üzerinden oynamak için tıklayın:
+Oyunu tarayıcı üzerinden oynamak için tıklayın:
 
 https://letranco.itch.io/servant-of-the-sword?secret=x2bMuwltUKYmbKsqo7oBaBkAr0
 ## Proje Hakkında
