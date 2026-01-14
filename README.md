@@ -32,4 +32,10 @@ Karakter, bu özelliği hareket etmiyorken kullanabilir, normal saldırıya kıy
 **Kritik Saldırı Sesi:** Kritik saldırı kullanıldığında daha tok bir ses çıkar.
 
 ## Yapay Zeka
-Oyunun şu anki sürümünde herhangi bir yapay zeka bulunmamaktadır. İleride rakipler bir yapay zeka ajanı tarafından kontrol edilecektir.
+Oyunun bu sürümünde rakipler, geleneksel kodlanmış davranışlar yerine Q-Learning algoritmasıyla geliştirilmiş birer yapay zeka ajanıdır.
+
+**Öğrenme Süreci:** Düşman, çevreyle rastgele bir şekilde etkileşime girerek hangi eylemlerin (saldırı, yaklaşma) kendilerine en yüksek "ödülü" getireceğini deneyimleyerek öğrenir.
+
+**Dinamik Tepki:** Ajan, oyuncunun hareketlerine göre kendi Q-Tablolarını günceller ve her savaşta daha optimize stratejiler geliştirir.
+
+**Fizik Temelli Karar Alma:** Ajan, Unity'nin fizik motoruyla entegre çalışarak sadece komut çalıştırmaz, aynı zamanda çevredeki fiziksel engelleri de analiz eder.
