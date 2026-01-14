@@ -19,7 +19,6 @@ public class OrcBrain : MonoBehaviour {
     private string SavePath => Path.Combine(Application.persistentDataPath, "orc_intelligence.json");
 
     void Start() {
-        Time.timeScale = 5.0f;
         LoadBrain();
     }
 
@@ -108,4 +107,5 @@ public class QTableData
 public class FloatArray
 {
     public float[] array;
+
 }
