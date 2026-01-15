@@ -39,3 +39,5 @@ Oyunun bu sürümünde rakipler, geleneksel kodlanmış davranışlar yerine Q-L
 **Dinamik Tepki:** Ajan, oyuncunun hareketlerine göre kendi Q-Tablolarını günceller ve her savaşta daha optimize stratejiler geliştirir.
 
 **Fizik Temelli Karar Alma:** Ajan, Unity'nin fizik motoruyla entegre çalışarak sadece komut çalıştırmaz, aynı zamanda çevredeki fiziksel engelleri de analiz eder.
+
+**Deneme Yöntemi:** Karakter düşmana yaklaştığında saldırılarının sıklaştığı, arkasına geçtiğinde ise düşmanın kovalamaya çalıştığı gözlemlenebilir.
